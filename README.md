@@ -15,7 +15,6 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -31,13 +30,15 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-333333?style=flat&logo=IntelliJIdea)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![IntelliJ Idea](https://img.shields.io/badge/-Intellij%20Idea-333333?style=flat&logo=Intellij-Idea)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)
+  ![Anaconda](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-studio)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects)
+  ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
-
 <br/>
 
 <a href="https://github.com/imoizuddin">
