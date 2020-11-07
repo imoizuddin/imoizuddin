@@ -32,14 +32,15 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ Idea](https://img.shields.io/badge/-Intellij%20Idea-333333?style=flat&logo=Intellij-Idea)
-  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm)
+  ![Pycharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=Pycharm)
   ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)
   ![Anaconda](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-studio)
+ <!--
 - 🖥 &nbsp;
   ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
+  ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)-->
 <br/>
 
 <a href="https://github.com/imoizuddin">
