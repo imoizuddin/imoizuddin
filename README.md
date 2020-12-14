@@ -40,7 +40,7 @@
   ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)-->
+  ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
 <br/>
 
 <a href="https://github.com/imoizuddin">
@@ -58,4 +58,4 @@
 <a href="https://www.instagram.com/imoizuddin/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-imoizuddin-blue?style=flat-square&logo=instagram"></a>
 <!-- <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a> -->
 </p>
-
+-->
