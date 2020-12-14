@@ -57,5 +57,3 @@
 <a href="https://www.linkedin.com/in/imoizuddin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Moiz%20Qureshi-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/imoizuddin/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-imoizuddin-blue?style=flat-square&logo=instagram"></a>
 <!-- <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a> -->
-</p>
--->
