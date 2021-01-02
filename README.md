@@ -22,7 +22,6 @@
 - ✍️ &nbsp; Pursuing Video Editing and Blog Writing as hobbies/side hustles.
 <br>
 
-
 📫  How to reach me **moizcodes@gmail.com**
 <br>
 <br>
