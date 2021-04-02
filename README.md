@@ -16,8 +16,7 @@
   <img align="left" alt="Moiz's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<br />
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<br>
 
 ### I am Moizuddin Qureshi
 - A Frontend Developer.
