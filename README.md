@@ -26,6 +26,7 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imoizuddin&label=Profile%20views&color=0e75b6&style=flat" alt="imoizuddin" /> </p>
-<br>
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imoizuddin&show_icons=true&locale=en" alt="imoizuddin" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imoizuddin&" alt="imoizuddin" /></p>
+-->
