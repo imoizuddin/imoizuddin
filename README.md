@@ -20,8 +20,8 @@
 
  ## I'm Moiz. 
 
-A Software Engineer and an OpenSource lover. I'm currently working as a **Systems Engineer** at **[IBM](https://ibm.com/)** :man_technologist:.
-I have experience working as a Software Developer in various domains like **E-Commerce, FinTech, EduTech**.
+A Software Engineer and an OpenSource lover. I'm currently working as a **Full Stack .Net Developer**  :man_technologist:.
+I have experience working as a Software Developer in various domains like **E-Commerce, FinTech, EduTech and HRMS**.
 
 - 📚- I'm currently learning more about **React, Frontend performance and algorithms**.
 
@@ -38,4 +38,6 @@ I have experience working as a Software Developer in various domains like **E-Co
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imoizuddin&show_icons=true&locale=en" alt="imoizuddin" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imoizuddin&" alt="imoizuddin" /></p>
+
+at **[IBM](https://ibm.com/)**
 -->
