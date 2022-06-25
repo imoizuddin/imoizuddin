@@ -29,7 +29,7 @@ I have experience working as a Software Developer in various domains like **E-Co
 
 - :bird: - I tweet about JavaScript, OpenSource and side projects on [Twitter](https://twitter.com/moizcodes).
 
-- :computer: - Have a look at my [Portfolio](https://www.imoizuddin.github.io/) for more details.
+- :computer: - Have a look at my [Portfolio](https://imoizuddin.github.io/) for more details.
 
 
 
