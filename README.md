@@ -1,27 +1,13 @@
-# Hi there 👋
+Hi 👋 My name is Moiz
+=====================
 
+Software Developer
+--------------------
 
-<a href="https://twitter.com/moizcodes">
-  <img align="left" alt="Moiz Qureshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/imoizuddin/">
-  <img align="left" alt="Moiz's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/imoizuddin/">
-  <img align="left" alt="Moiz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://hackerrank.com/moizcodes/">
-  <img align="left" alt="Moiz's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://medium.com/@imoizuddin">
-  <img align="left" alt="Moiz's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<br>
+Experienced in designing, developing minimal web applications in .Net Stack.
 
- ## I'm Moiz. 
-
-A Software Engineer and an OpenSource lover. I'm currently working as a **Full Stack .Net Developer**  :man_technologist:.
-I have experience working as a Software Developer in various domains like **E-Commerce, FinTech, EduTech and HRMS**.
+- I'm currently working as a **Full Stack .Net Developer**  :man_technologist:.<br/>
+I have experience working in various domains like **E-Commerce, FinTech, EduTech and HRMS**.
 
 - 📚- I'm currently learning more about **React, Frontend performance and algorithms**.
 
@@ -31,7 +17,13 @@ I have experience working as a Software Developer in various domains like **E-Co
 
 - :computer: - Have a look at my [Portfolio](https://imoizuddin.github.io/) for more details.
 
+### Socials
 
+<p align="left"> <a href="https://www.behance.com/imoizuddin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.dev.to/moiz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/imoizuddin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://moiz.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/moizcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/imoizuddin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/imoizuddin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/moizcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/imoizuddin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/moizcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/moizcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/imoizuddin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imoizuddin&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imoizuddin&label=Profile%20views&color=0e75b6&style=flat" alt="imoizuddin" /> </p>
